@@ -249,7 +249,9 @@ class EmailCardDescrition extends StatelessWidget {
             Text("Marke Amarrilo",
                 style: TextStyle(color: Colors.white, fontSize: 80.w)),
             Padding(
-              padding: const EdgeInsets.only(left: 15, ),
+              padding: const EdgeInsets.only(
+                left: 15,
+              ),
               child: Text(
                 "19 min ago",
                 style: TextStyle(color: textCardSecondaryColor, fontSize: 40.w),
@@ -270,8 +272,7 @@ class EmailCardDescrition extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.only(top: 9),
           child: Text("One thing is clear to me, and tha",
-              style: TextStyle(
-                  color: textCardSecondaryColor, fontSize: 50.w)),
+              style: TextStyle(color: textCardSecondaryColor, fontSize: 50.w)),
         )
       ],
     );
