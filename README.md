@@ -2,7 +2,7 @@
 
 An simple UI made with Flutter.
 
-![](sample.gif)
+![alt-text](https://github.com/pbissonho/A-simple-email-screen/blob/master/example.gif)
 
 
 
