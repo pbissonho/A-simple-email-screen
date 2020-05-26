@@ -2,7 +2,7 @@
 
 An simple UI made with Flutter.
 
-[Imgur](https://imgur.com/1RiFpQt)
+![Imgur Image](https://imgur.com/1RiFpQt)
 
 
 
